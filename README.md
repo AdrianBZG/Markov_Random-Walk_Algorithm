@@ -9,6 +9,6 @@
 ## Developer
 
 ### Adrián Rodríguez Bazaga
-  - Email: arodriba@ull.es
-  - [My Personal Page](http://www.adrianbazaga.info/)
+  - Email: adrian@qmindgroup.com
+  - [My Personal Page](http://www.adrianbazaga.com/)
   - [My LinkedIn Profile](https://es.linkedin.com/in/adrirodbaz)
